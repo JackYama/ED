@@ -1,0 +1,6 @@
+Los comandos git para el apartado local son:
+1.git add .
+2.git status
+3.git commit -m "(Nombre del commit)
+4.git branch
+5.git checkout
